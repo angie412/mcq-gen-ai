@@ -13,4 +13,4 @@ pip install openai
 
 python manage.py migrate
 
-servie.py -> main function 
+Generative_AI_LLM_App/quiz_project/quiz_app/service.py -> main function 
